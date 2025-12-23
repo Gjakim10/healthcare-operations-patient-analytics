@@ -1,0 +1,121 @@
+doctor_id,doctor_name,specialty,clinic_location
+1,Dr. Nathaniel Boyer,Oncology,Spokane
+2,Dr. Joshua Valentine,Neurology,Tacoma
+3,Dr. Kelly Young,Endocrinology,Spokane
+4,Dr. Melissa Lindsey,Endocrinology,Portland
+5,Dr. Angela Yu,Orthopedics,Portland
+6,Dr. Richard Perez,Oncology,Seattle
+7,Dr. Ryan Banks,Endocrinology,Seattle
+8,Dr. Erin Rivera,Cardiology,Seattle
+9,Dr. David Wilson,Orthopedics,Seattle
+10,Dr. Keith Moore,Orthopedics,Seattle
+11,Dr. Lindsay Peters,Endocrinology,Spokane
+12,Dr. Natalie Smith,Oncology,Tacoma
+13,Dr. Lindsay Jones,Pediatrics,Olympia
+14,Dr. Paul Preston,Cardiology,Spokane
+15,Dr. Christopher Moyer,General Medicine,Spokane
+16,Dr. Garrett Hunter,Cardiology,Tacoma
+17,Dr. Mark Hill,Orthopedics,Portland
+18,Dr. Joseph Price,Endocrinology,Tacoma
+19,Dr. Gregory Mendoza,General Medicine,Spokane
+20,Dr. Sheila Day,Neurology,Tacoma
+21,Dr. Julie Miles MD,Orthopedics,Seattle
+22,Dr. Steven Boyd,Orthopedics,Tacoma
+23,Dr. Daniel Thompson PhD,Oncology,Seattle
+24,Dr. Jennifer Clements,Neurology,Portland
+25,Dr. Cassandra Brown,Endocrinology,Seattle
+26,Dr. Brian Keller,Oncology,Spokane
+27,Dr. Victoria Dixon,Oncology,Portland
+28,Dr. Amber Roy,Endocrinology,Seattle
+29,Dr. Franklin Smith,Oncology,Olympia
+30,Dr. Matthew Willis,Endocrinology,Seattle
+31,Dr. Mary Caldwell,Orthopedics,Tacoma
+32,Dr. Amy Fletcher,General Medicine,Tacoma
+33,Dr. Mckenzie Mann,Orthopedics,Portland
+34,Dr. Nicole Pierce,Pediatrics,Spokane
+35,Dr. Daniel Wright,Pediatrics,Portland
+36,Dr. Anna Welch,Endocrinology,Seattle
+37,Dr. Rose Holmes,Orthopedics,Olympia
+38,Dr. Tanya Cox,Cardiology,Seattle
+39,Dr. Ashley Martinez,Pediatrics,Tacoma
+40,Dr. Mark Obrien,Cardiology,Spokane
+41,Dr. Barbara Daniels,Oncology,Seattle
+42,Dr. Andres Sanchez,Cardiology,Spokane
+43,Dr. Andrew Hughes,Orthopedics,Tacoma
+44,Dr. Diane Mathews,General Medicine,Seattle
+45,Dr. Kimberly Ruiz,Oncology,Portland
+46,Dr. Mark Martinez,Cardiology,Tacoma
+47,Dr. Joshua Beck,Cardiology,Spokane
+48,Dr. Robert Ford,Neurology,Portland
+49,Dr. Brianna Downs,General Medicine,Olympia
+50,Dr. Jasmine Peterson MD,Orthopedics,Portland
+51,Dr. John Patel,Endocrinology,Seattle
+52,Dr. Teresa Stone,Cardiology,Spokane
+53,Dr. Andrew Shepard,Orthopedics,Portland
+54,Dr. Richard Hunt,General Medicine,Spokane
+55,Dr. James Flores,Orthopedics,Seattle
+56,Dr. Nancy Carter,Pediatrics,Olympia
+57,Dr. Jacqueline Ray,Endocrinology,Seattle
+58,Dr. Raymond King,Neurology,Seattle
+59,Dr. Veronica Brewer,Neurology,Seattle
+60,Dr. Mrs. Glenda Lynch,Cardiology,Olympia
+61,Dr. Jason Barton,Orthopedics,Portland
+62,Dr. Michaela Dixon,Endocrinology,Olympia
+63,Dr. Katrina Kramer DDS,General Medicine,Spokane
+64,Dr. Brian Anderson,Orthopedics,Olympia
+65,Dr. Gloria Doyle,Cardiology,Portland
+66,Dr. Tamara Lester,General Medicine,Portland
+67,Dr. Teresa Sanchez,Orthopedics,Tacoma
+68,Dr. Brad Nguyen MD,Oncology,Olympia
+69,Dr. Robert Fernandez,Pediatrics,Spokane
+70,Dr. Robert Wallace,Orthopedics,Tacoma
+71,Dr. Mrs. Stephanie Evans MD,Orthopedics,Seattle
+72,Dr. Daniel Lopez,Cardiology,Portland
+73,Dr. Jose Mueller,Oncology,Tacoma
+74,Dr. Shawn Morton,Neurology,Portland
+75,Dr. Debbie Reed,Endocrinology,Seattle
+76,Dr. Taylor Brown,Neurology,Spokane
+77,Dr. Colleen Murphy,Pediatrics,Tacoma
+78,Dr. Monica Owens,Neurology,Spokane
+79,Dr. Chad Solis,General Medicine,Portland
+80,Dr. Susan Richmond,Cardiology,Seattle
+81,Dr. Robert Gordon,Cardiology,Seattle
+82,Dr. Ronald Wilson,Neurology,Spokane
+83,Dr. James Benson,Oncology,Spokane
+84,Dr. Sandra Hendrix,Orthopedics,Spokane
+85,Dr. Michael Grant,Oncology,Spokane
+86,Dr. Jennifer Fuentes,Orthopedics,Portland
+87,Dr. Janet Powers,Neurology,Tacoma
+88,Dr. Natasha Jackson,Pediatrics,Seattle
+89,Dr. Joseph Stokes,Neurology,Spokane
+90,Dr. Latasha Griffin,Oncology,Tacoma
+91,Dr. Mr. Steven Miller,Oncology,Portland
+92,Dr. Ronald Chambers,Pediatrics,Tacoma
+93,Dr. Mrs. Jessica Jones,Cardiology,Olympia
+94,Dr. Kimberly Dean,Endocrinology,Seattle
+95,Dr. John Martinez,Pediatrics,Olympia
+96,Dr. Timothy Ashley,Neurology,Spokane
+97,Dr. Tanya Coleman,General Medicine,Seattle
+98,Dr. Edward Smith,Neurology,Olympia
+99,Dr. Kenneth James,Pediatrics,Olympia
+100,Dr. Maria Bauer MD,Oncology,Portland
+101,Dr. Madeline Welch,Cardiology,Olympia
+102,Dr. Victoria Turner,Orthopedics,Olympia
+103,Dr. Scott Ramirez,Cardiology,Portland
+104,Dr. Kyle Roberts,General Medicine,Tacoma
+105,Dr. Brandy Mcdaniel,Orthopedics,Tacoma
+106,Dr. Eugene Eaton,Pediatrics,Tacoma
+107,Dr. Sarah Acosta,Cardiology,Olympia
+108,Dr. Jimmy Williams,Cardiology,Seattle
+109,Dr. David Jackson,General Medicine,Olympia
+110,Dr. Gregory Ramirez,Cardiology,Spokane
+111,Dr. Bradley Taylor,Oncology,Seattle
+112,Dr. Joshua Acevedo,Orthopedics,Olympia
+113,Dr. Alex Gonzalez,Oncology,Olympia
+114,Dr. Kevin Delacruz,Pediatrics,Spokane
+115,Dr. Ryan Fowler,Cardiology,Portland
+116,Dr. Andrea Weiss,Cardiology,Spokane
+117,Dr. Christopher White,Pediatrics,Tacoma
+118,Dr. Andrew Anderson,Endocrinology,Tacoma
+119,Dr. Jenny Payne,Neurology,Portland
+120,Dr. Nicolas Dixon,Pediatrics,Olympia

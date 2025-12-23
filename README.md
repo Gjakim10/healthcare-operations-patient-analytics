@@ -19,5 +19,5 @@ This project analyzes hospital data to understand patient demographics, appointm
 - Power BI dashboard  
 - Project documentation  
 
-## Dashboard Preview
-![Hospital Dashboard Preview](visuals/dashboard_preview.png)
+You can **download the full Power BI dashboard** here to explore it yourself:  
+[Download Power BI Dashboard](powerbi/healthcare_dashboard.pbix)

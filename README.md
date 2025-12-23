@@ -20,4 +20,4 @@ This project analyzes hospital data to understand patient demographics, appointm
 - Project documentation  
 
 You can **download the full Power BI dashboard** here to explore it yourself:  
-[Download Power BI Dashboard](powerbi/healthcare_dashboard.pbix)
+[Download Power BI Dashboard](https://github.com/Gjakim10/healthcare-operations-patient-analytics/blob/main/healthcare_dashboard.pbix)
